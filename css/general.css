@@ -1,8 +1,13 @@
-/* #This is modified CSS */
-I forgot how to write css.
-
-<p> Modification on general.CSS file</p>
-
-<h3>Something new added</h3>
-
-something else for writing
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
